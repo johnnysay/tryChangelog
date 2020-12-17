@@ -1,11 +1,12 @@
 # Changelog
 
-## [Unreleased](https://github.com/johnnysay/tryChangelog/tree/HEAD)
+## [1.0.0](https://github.com/johnnysay/tryChangelog/tree/1.0.0) (12/17/2020)
 
-[Full Changelog](https://github.com/johnnysay/tryChangelog/compare/0798b59b6659e003184ec3eb8fd1ccbbd86e84b5...HEAD)
+[Full Changelog](https://github.com/johnnysay/tryChangelog/compare/0798b59b6659e003184ec3eb8fd1ccbbd86e84b5...1.0.0)
 
 **Merged pull requests:**
 
+- Second branch [\#3](https://github.com/johnnysay/tryChangelog/pull/3) ([johnnysay](https://github.com/johnnysay))
 - Something else with second branch [\#2](https://github.com/johnnysay/tryChangelog/pull/2) ([johnnysay](https://github.com/johnnysay))
 - BonjourJeSuisLeNomDeLaPullRequest [\#1](https://github.com/johnnysay/tryChangelog/pull/1) ([johnnysay](https://github.com/johnnysay))
 
