@@ -1,5 +1,13 @@
 # Changelog
 
+## [Unreleased](https://github.com/johnnysay/tryChangelog/tree/HEAD)
+
+[Full Changelog](https://github.com/johnnysay/tryChangelog/compare/1.0.0...HEAD)
+
+**Merged pull requests:**
+
+- tech\(IOSTECH-1\): test kilokilo 2 [\#4](https://github.com/johnnysay/tryChangelog/pull/4) ([johnnysay](https://github.com/johnnysay))
+
 ## [1.0.0](https://github.com/johnnysay/tryChangelog/tree/1.0.0) (12/17/2020)
 
 [Full Changelog](https://github.com/johnnysay/tryChangelog/compare/0798b59b6659e003184ec3eb8fd1ccbbd86e84b5...1.0.0)
