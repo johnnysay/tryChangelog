@@ -1,11 +1,13 @@
 # Changelog
 
-## [Unreleased](https://github.com/johnnysay/tryChangelog/tree/HEAD)
+## [2.0.0](https://github.com/johnnysay/tryChangelog/tree/2.0.0) (12/17/2020)
 
-[Full Changelog](https://github.com/johnnysay/tryChangelog/compare/1.0.0...HEAD)
+[Full Changelog](https://github.com/johnnysay/tryChangelog/compare/1.0.0...2.0.0)
 
 **Merged pull requests:**
 
+- tech\(IOSTECH-4\): something [\#7](https://github.com/johnnysay/tryChangelog/pull/7) ([johnnysay](https://github.com/johnnysay))
+- tech\(IOSTECH-3\): helloworld [\#5](https://github.com/johnnysay/tryChangelog/pull/5) ([johnnysay](https://github.com/johnnysay))
 - tech\(IOSTECH-1\): test kilokilo 2 [\#4](https://github.com/johnnysay/tryChangelog/pull/4) ([johnnysay](https://github.com/johnnysay))
 
 ## [1.0.0](https://github.com/johnnysay/tryChangelog/tree/1.0.0) (12/17/2020)
